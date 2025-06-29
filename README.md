@@ -6,9 +6,9 @@
 &nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jinghuan04/)
 
-- 📚 I'm a Year 2 Computer Science and Design Undergraduate at [Singapore University of Design and Technology](https://www.sutd.edu.sg/).
+- 📚 I'm a Computer Science and Design Junior at Singapore University of Design and Technology, check out my [projects](https://web-jing-huan.vercel.app/)!
 - 🌱 Graduated from [Singapore Polytechnic](https://www.sp.edu.sg/) with a diploma in Visual Effects and Motion Graphics. 
-- 💻 I enjoy doing 3D animations and renders in my free time. See my works [here!](https://jinghuan04.wixsite.com/mysite/portfolio)
+- 💻 I enjoy doing 3D animations and renders in my free time. See my design works [here!](https://jinghuan04.wixsite.com/mysite/portfolio)
 
 ### Languages and Technologies I've worked with:
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,postgresql,mysql,react,django,mongodb,spring,tailwind,docker,aws,firebase,git,gradle,nodejs,nextjs,vercel,html,css,arduino&perline=12)](https://skillicons.dev)
